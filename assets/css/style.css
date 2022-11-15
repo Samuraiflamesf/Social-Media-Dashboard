@@ -1,0 +1,50 @@
+/* CSS HEX */
+:root {
+  --whitespace: #fcffffff;
+  --space-cadet: #232d42ff;
+  --raisin-black: #1f212eff;
+  --black-coral: #596271ff;
+  /*Light */
+  --gunmetal: #2a2d36ff;
+  --ghost-white: #f1f3faff;
+  --lavender-gray: rgb(107, 107, 107);
+  --black: #161922ff;
+}
+
+.dark {
+  background-color: var(--raisin-black);
+  color: var(--whitespace);
+}
+.dark .card {
+  background-color: var(--space-cadet);
+  color: var(--whitespace);
+}
+.dark p h6 {
+  color: var(--black-coral);
+}
+.dark span {
+  color: var(--whitespace);
+}
+
+.light {
+  background-color: var(--whitespace);
+  color: var(--gunmetal);
+}
+.light .card {
+  background-color: var(--ghost-white);
+  color: var(--gunmetal);
+}
+.light p h6 {
+  color: var(--lavender-gray);
+}
+.light span {
+  color: var(--black);
+}
+.span {
+  font-weight: 300;
+  letter-spacing: 0.3em;
+}
+.spanNumber {
+  font-size: 52px;
+  font-weight: 700;
+}
