@@ -1,16 +1,14 @@
 <div align="center">
   
-# Nome do Projeto 📁 <a href="#">Link da Aplicação</a>
+# Social Media Dashboard 📁 <a href="https://socialmediauserbernardonogueira8.netlify.app/">Link da Aplicação</a>
 
 </div>
 
-![Video-Aplicação](https://user-images.githubusercontent.com/62897976/185768202-9e2fda79-b014-4d99-a10e-1f0852a981a1.gif)
 
-<img src="./src/Assets/gif.gif" alt="Descrição da imagem">
 
 <div align="center">
   
-[![Tech](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 </div>
 
@@ -21,16 +19,7 @@
 ![status-descontinuado](https://user-images.githubusercontent.com/62897976/185768580-1dcbe992-a35c-4f36-8b2b-14d469203d02.svg)
 
 ### Resumo do Projeto
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-
-### Situação Problema
-
-Eu ea laboris reprehenderit fugiat voluptate incididunt eu consectetur nostrud.
-
-### Objetivo da Intervenção
-
-Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit occaecat. Consectetur anim cupidatat qui cupidatat aute minim esse. Reprehenderit laborum pariatur anim cillum anim cupidatat fugiat enim elit ex labore. Veniam laboris officia sunt consequat. Nostrud aute ullamco eiusmod reprehenderit consequat. Duis nisi commodo sit nostrud elit.
+O Social Media Dashboard reúnem métricas das plataformas: Facebook, Instagram e YouTube. As exibe seu desempenho de marketing de mídia social em uma única visualização. Ao acompanhar suas métricas em um painel de mídia social, você tem acesso rápido a insights que o ajudarão a tomar decisões de marketing inteligentes e orientadas por dados.
 
 ### 🎯 Implementações/Features
 
@@ -38,19 +27,20 @@ Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit 
 - [x] Estilos Globais do Projeto
 - [x] Estruturação/Estilização Avançada
 - [x] Resolvendo Bugs Frontend
+- [x] DarkMode
 - [x] Conectando API do YouTube
-- [ ] Conectando API do Instagram
-- [ ] Projeto Finalizado
+- [x] Conectando API do Instagram
+- [x] Projeto Finalizado
 
 ## Considerações Finais
 
-Deserunt occaecat non aliqua sit et anim ex amet elit pariatur. Cupidatat culpa exercitation magna cupidatat qui incididunt commodo do ex elit et anim. Qui quis tempor cupidatat commodo. Excepteur tempor nulla ea mollit proident proident fugiat sit reprehenderit consequat. Eu laboris aliqua culpa deserunt cupidatat amet.
-
+Ao finalizar, em poucos clickers conseguimos visualizar os dados:
+- Seguidores no Instagram, Youtube e Facebook
+- Alcançar no Instagram e Facebook
+- Visualizações no YouTube
+- Quantidade de Publicações
 ## Anexos
 
-<a href="#">
-  <img src=""  width="160px;">
-</a>
 
 ## 🤝 Colaboradores
 
