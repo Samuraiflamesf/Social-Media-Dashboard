@@ -15,8 +15,7 @@
 # 📄 Tipo do Projeto/Nome do Projeto
 
 ![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
-![status-em-andamento](https://user-images.githubusercontent.com/62897976/185768581-1d051a52-2e60-4378-b31d-39028cbfb5c8.svg)
-![status-descontinuado](https://user-images.githubusercontent.com/62897976/185768580-1dcbe992-a35c-4f36-8b2b-14d469203d02.svg)
+
 
 ### Resumo do Projeto
 O Social Media Dashboard reúnem métricas das plataformas: Facebook, Instagram e YouTube. As exibe seu desempenho de marketing de mídia social em uma única visualização. Ao acompanhar suas métricas em um painel de mídia social, você tem acesso rápido a insights que o ajudarão a tomar decisões de marketing inteligentes e orientadas por dados.
@@ -41,6 +40,8 @@ Ao finalizar, em poucos clickers conseguimos visualizar os dados:
 - Quantidade de Publicações
 ## Anexos
 
+![1](https://user-images.githubusercontent.com/62897976/201812574-8e451f8b-c7f2-459a-be48-9fe3391ba855.jpg)
+![2](https://user-images.githubusercontent.com/62897976/201812583-95942543-f441-4cc9-824f-da5fe151777b.jpg)
 
 ## 🤝 Colaboradores
 
